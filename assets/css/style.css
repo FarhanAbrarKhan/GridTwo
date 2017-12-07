@@ -1,0 +1,20 @@
+.container{
+	color: #fff;
+}
+.orange-one{
+	background-color: #e25102;
+}
+.orange-two{
+	background-color: #e99161;
+}
+.orange-three{
+	background-color: #eca177;
+}
+.border{
+	border: 2px solid #fff;
+	padding: 98px 0; 
+	text-align: center;
+}
+.left{
+	float: left
+}
